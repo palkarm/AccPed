@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93659872094",
+    "firebase_url": "https://accped.firebaseio.com",
+    "project_id": "accped",
+    "storage_bucket": "accped.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93659872094:android:4cf63d7816ed379ddbedcf",
+        "android_client_info": {
+          "package_name": "com.example.accped"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93659872094-54bd6ccsm2mg7b1jrberno0netc4dk72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHYx0Mt2lzLglsBOTIXiSoI_qq6Pc2MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93659872094-54bd6ccsm2mg7b1jrberno0netc4dk72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
